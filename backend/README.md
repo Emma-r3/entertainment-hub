@@ -1,5 +1,5 @@
 # Your One Entertainment List: Backend
-
+Alamat API: https://entertainment-hub-yzy3.onrender.com/api
 REST API untuk aplikasi Your One Entertainment List web dan mobile.
 
 ## Teknologi

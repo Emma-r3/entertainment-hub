@@ -1,5 +1,6 @@
 # Your One Entertainment List: Web
-
+Link aplikasi: https://entertainment-hub-nu-seven.vercel.app
+API (backend): https://entertainment-hub-yzy3.onrender.com
 Aplikasi web (React) untuk menjelajahi film, serial TV, dan musik. Pengguna dapat
 memberi rating dan ulasan, menyimpan favorit, menandai tontonan, dan membuat koleksi.
 

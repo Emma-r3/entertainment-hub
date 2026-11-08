@@ -19,7 +19,7 @@ export async function api(path, { method = 'GET', body } = {}) {
   if (token) headers.Authorization = `Bearer ${token}`;
 
   const controller = new AbortController();
-  const timer = setTimeout(() => controller.abort(), 20000);
+  const timer = setTimeout(() => controller.abort(), 60000);
 
   let res;
   try {
